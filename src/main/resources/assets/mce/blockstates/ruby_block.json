@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mce:block/ruby_block" }
+  }
+}

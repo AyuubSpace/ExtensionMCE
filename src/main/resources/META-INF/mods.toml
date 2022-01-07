@@ -1,0 +1,55 @@
+
+modLoader="javafml"
+
+loaderVersion="[39,)"
+
+license="MIT"
+
+
+[[mods]]
+
+modId="mce"
+
+version="1.18.1-1.0.0"
+
+displayName="ExtensionMCE"
+
+logoFile="mce.png"
+
+credits="Thanks for this example mod goes to Java and my incredible friends Tharakan, Ronny, Haidar, Leander and Zakariye"
+
+authors="AyuubSpace, IntelliJ IDEA"
+
+description='''
+This mod was made for my incredible friends Tharakan, Ronny, Haidar, Leander and Zakariye.
+--------------------------------------------------------------------------------------
+Thanks so much Tharakan and Ronny for the ideas. I truly can not thank you all enough.
+--------------------------------------------------------------------------------------
+Enjoy the new biomes, dimensions, blocks and items, As well you can make new armor and tools!
+----------------------------------------------------------------------------------------
+The mod is in version 1.0.0 and it is alpha-beta stage it will soon come out to the public.
+---------------------------------------------------------------------------------------
+MCE stands for Minecraft Extension.
+
+'''
+[[dependencies.mce]]
+modId="forge"
+
+mandatory=true
+
+versionRange="[39,)"
+
+ordering="NONE"
+
+side="BOTH"
+
+[[dependencies.mce]]
+modId="minecraft"
+
+mandatory=true
+
+versionRange="[1.18.1,1.19)"
+
+ordering="NONE"
+
+side="BOTH"

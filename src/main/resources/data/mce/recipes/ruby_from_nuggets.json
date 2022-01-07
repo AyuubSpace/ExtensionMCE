@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mce:ruby_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "mce:ruby",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "item.mce.ruby": "Rubin",
+  "item.mce.stone_stick": "Steinstokk",
+  "item.mce.angel_ring": "Engel ring",
+  "item.mce.ruby_apple": "Rubin eple",
+  "item.mce.ruby_nugget": "Rubin nugget",
+  "item.mce.smelter": "Smelteverk",
+
+  "block.mce.ruby_block": "Rubinblokk",
+  "block.mce.ruby_end_ore": "Rubin end malm",
+  "block.mce.ruby_ore": "Rubin malm",
+  "block.mce.ruby_deepslate_ore": "Rubin Deepslate malm",
+
+  "item.mce.ruby_helmet": "Rubin hjelm",
+  "item.mce.ruby_chestplate": "Rubin Chestplate",
+  "item.mce.ruby_leggings": "Rubin leggings",
+  "item.mce.ruby_boots": "Rubin støvler",
+
+  "item.mce.ruby_sword": "Rubin sverd",
+  "item.mce.ruby_pickaxe": "Rubin hakke",
+  "item.mce.ruby_shovel": "Rubin spade",
+  "item.mce.ruby_axe": "Rubin øks",
+  "item.mce.ruby_hoe": "Rubin hakke",
+
+
+  "itemGroup.extension": "Utvidlse"
+}

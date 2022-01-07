@@ -1,0 +1,27 @@
+{
+  "item.mce.ruby": "Ruby",
+  "item.mce.stone_stick": "Stone Stick",
+  "item.mce.angel_ring": "Angel Ring",
+  "item.mce.ruby_nugget": "Ruby Nugget",
+  "item.mce.ruby_apple": "Ruby Apple",
+  "item.mce.smelter": "Smelter",
+
+  "item.mce.ruby_helmet": "Ruby Helmet",
+  "item.mce.ruby_chestplate": "Ruby Chestplate",
+  "item.mce.ruby_leggings": "Ruby Leggings",
+  "item.mce.ruby_boots": "Ruby Boots",
+
+  "item.mce.ruby_sword": "Ruby Sword",
+  "item.mce.ruby_pickaxe": "Ruby Pickaxe",
+  "item.mce.ruby_shovel": "Ruby Shovel",
+  "item.mce.ruby_axe": "Ruby Axe",
+  "item.mce.ruby_hoe": "Ruby Hoe",
+
+  "block.mce.ruby_block": "Ruby Block",
+  "block.mce.ruby_end_ore": "Ruby End Ore",
+  "block.mce.ruby_ore": "Ruby Ore",
+  "block.mce.ruby_deepslate_ore": "Ruby Deepslate Ore",
+
+
+  "itemGroup.extension": "Extension"
+}

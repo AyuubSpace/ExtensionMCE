@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mce:blocks/ruby_deepslate_ore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mce:ruby"
+    }
+  ],
+  "result":
+  {
+    "item": "mce:ruby_nugget",
+    "count": 9
+  }
+}
